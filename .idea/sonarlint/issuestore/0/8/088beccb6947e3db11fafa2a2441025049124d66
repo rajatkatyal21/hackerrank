@@ -1,0 +1,8 @@
+
+lsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‚ş¾8–”ù¬Í-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾ùôŒùÿÿÿÿ8È÷ùóÌ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(óŠÕÎÿÿÿÿÿ8…‹ÆôÌ-
+Isquid:S1659"&Declare "max_till" on a separate line.(¢£¿×ÿÿÿÿÿ8®şÉôÌ-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢£¿×ÿÿÿÿÿ8ŠÌÅôÌ-

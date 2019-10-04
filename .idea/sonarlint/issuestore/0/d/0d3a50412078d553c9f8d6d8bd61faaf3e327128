@@ -1,0 +1,23 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğø‡ÿÿÿÿÿ8ö²Ò¤Õ-
+^squid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ŠøÑ¤Õ-
+[squid:S1197D"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ8ö²Ò¤Õ-
+Ssquid:S1854
+"5Remove this useless assignment to local variable "e".(‹…ø8ö²Ò¤Õ-
+?squid:S1659
+"!Declare "min" on a separate line.(‹…ø8ö²Ò¤Õ-
+?squid:S1659
+"!Declare "max" on a separate line.(‹…ø8ö²Ò¤Õ-
+V
+squid:S106>"9Replace this use of System.out or System.err by a logger.(î½öÏ8ÿ½Ö¤Õ-
+=squid:S1659
+"Declare "e" on a separate line.(‹…ø8ö²Ò¤Õ-
+[squid:S1197"8Move the array designator from the variable to the type.(ÌåÑáúÿÿÿÿ8ö²Ò¤Õ-
+Vsquid:S1197F"8Move the array designator from the variable to the type.(ÇÖê8ö²Ò¤Õ-
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8ŠøÑ¤Õ-
+=squid:S1659
+"Declare "i" on a separate line.(‹…ø8ö²Ò¤Õ-
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÌåÑáúÿÿÿÿ8ö²Ò¤Õ-
+9squid:S3626A"Remove this redundant jump.(ûÁİ…8ÿ½Ö¤Õ-
+usquid:S00117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢íóÔùÿÿÿÿ8ö²Ò¤Õ-

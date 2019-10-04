@@ -1,0 +1,9 @@
+
+Vsquid:S1197"8Move the array designator from the variable to the type.(œª“¨8Ù¾Ý€Ð-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(äÚ¦Ùùÿÿÿÿ8Ù¾Ý€Ð-
+asquid:UselessImportCheck"1Remove this unused import 'java.util.Collection'.(¹ÉÐšùÿÿÿÿ8Ù¾Ý€Ð-
+usquid:S3776,"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ŽÌ‘ºýÿÿÿÿ8Ù¾Ý€Ð-
+9squid:S3626E"Remove this redundant jump.(ÉŠ©ƒ8Ù¾Ý€Ð-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(„äšÿÿÿÿÿ8Ù¾Ý€Ð-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½¨»8ÛúÝ€Ð-

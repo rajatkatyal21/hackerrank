@@ -1,0 +1,6 @@
+
+”squid:S1845#"qRename method "hourGlassSum" to prevent any misunderstanding/clash with method "hourglassSum" defined on line 19.(‡éù¶ıÿÿÿÿ8“ª«»-
+[squid:S1197"8Move the array designator from the variable to the type.(ªâÊ¬ÿÿÿÿÿ8Šã¤¢·-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(±ÿ·´8“ª«»-
+Hsquid:S00108'")Either remove or fill this block of code.(åÁî—8“ª«»-

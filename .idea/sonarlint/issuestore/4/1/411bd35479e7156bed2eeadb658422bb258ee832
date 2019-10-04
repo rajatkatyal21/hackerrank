@@ -1,0 +1,8 @@
+
+Isquid:S2185"&Remove this silly call to "Math.floor"(•Ïİ ÿÿÿÿÿ8Ò­ÁÁ¶-
+Vsquid:S1197"8Move the array designator from the variable to the type.(¾€ú8ø–ÂÀ¶-
+esquid:S2184"BCast one of the operands of this division operation to a "double".(•Ïİ ÿÿÿÿÿ8Ò­ÁÁ¶-
+Usquid:S1481"2Remove this unused "numberOfSocks" local variable.(ğºúöşÿÿÿÿ8ø–ÂÀ¶-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ú×…á8ÂÀÅÀ¶-
+dsquid:S1854"ARemove this useless assignment to local variable "numberOfSocks".(ğºúöşÿÿÿÿ8ø–ÂÀ¶-

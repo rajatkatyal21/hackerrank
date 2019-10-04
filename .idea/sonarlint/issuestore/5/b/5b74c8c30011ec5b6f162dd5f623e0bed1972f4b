@@ -1,0 +1,9 @@
+
+Ssquid:S2209"5Change this instance-reference to a static reference.(âÂÊ¥8‚ »ìÁ-
+U
+squid:S106&"9Replace this use of System.out or System.err by a logger.(âäÛp8‚÷ìÁ-
+Ssquid:S2209"5Change this instance-reference to a static reference.(„¼ú­8¤…üìÁ-
+hsquid:S22596"JA "NullPointerException" could be thrown; "previousNode" is nullable here.(¦°¼“8Ê³³ïÁ-
+Ssquid:S2209"5Change this instance-reference to a static reference.(œğêï8¤…üìÁ-
+psquid:S001175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×›Ï8Î™£ïÁ-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îõƒ

@@ -1,0 +1,7 @@
+
+[squid:S1197"8Move the array designator from the variable to the type.(“¢ºÕùÿÿÿÿ8´èèş»-
+[squid:S1197"8Move the array designator from the variable to the type.(üÉ±¼ıÿÿÿÿ8Ó£×¼-
+V
+squid:S106	"9Replace this use of System.out or System.err by a logger.(¡ƒ©¯8•·Á…¼-
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8—æ•¼-
+Bsquid:S2131"Use "Integer.toString" instead.(‰¡˜øÿÿÿÿ8€âó‹¼-
